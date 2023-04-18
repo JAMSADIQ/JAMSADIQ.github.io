@@ -1,0 +1,11 @@
+/* This is file where i set up styles for my webpages and call this file */
+body { background-color: black; color: white; }
+h1 { color: gray; text-align: center; }
+.callout{
+    color: gray;
+    font-style: italic;
+    margin-left: 20px;
+    }
+#pageTitle {color: red; font-weight: bold;}   
+.bold-red { font-weight: bold; color: red; }
+
